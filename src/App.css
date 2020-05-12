@@ -1,0 +1,18 @@
+.App {
+  /* text-align: center; */
+  background: #052F45;
+  color: #fff;
+}
+
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
